@@ -1,13 +1,10 @@
 {
-  "name": "scripting-programming-languages",
+  "name": "scripting-programming-languages-proxy",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IchZerowan/scripting-programming-languages.git"
-  },
   "author": "IchZerowan",
   "dependencies": {
+    "axios": "^0.27.2",
+    "convict": "^6.2.3",
     "dotenv": "^16.0.1",
     "express": "^4.18.1"
   },
